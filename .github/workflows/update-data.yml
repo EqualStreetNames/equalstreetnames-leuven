@@ -1,9 +1,9 @@
 name: Update data
 
 on:
-  # Run every Monday at 3:30 UTC
+  # Run every month on the 1st at 3:30 UTC
   schedule:
-    - cron: "30 3 * * 1"
+    - cron: "30 3 1 * *"
   push:
     paths:
       - ".github/workflows/update-data.yml"
