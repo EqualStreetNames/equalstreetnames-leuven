@@ -4,7 +4,6 @@ name,source,gender,wikidata,type
 "Hortense Damanhof",wikidata,F,Q5906692,way
 "Koningin Astridlaan",wikidata,F,Q230238,way
 "Koningin Elisabethlaan",wikidata,F,Q235186,way
-"Koningin Fabiolaweg",wikidata,F,Q231171,way
 "Marie Popelinlaan",wikidata,F,Q2627259,way
 "Prinses Lydialaan",wikidata,F,Q75394447,way
 Sint-Beggaberg,wikidata,F,Q266765,way
@@ -51,7 +50,7 @@ Dagobertstraat,wikidata,M,Q316874,relation
 "Koning Boudewijnlaan",wikidata,M,Q12976,way
 "Koning Leopold I-straat",wikidata,M,Q12971,way
 "Koning Leopold III-laan",wikidata,M,Q12973,way
-Lemmensberg,wikidata,M,Q712718,relation+way
+Lemmensberg,wikidata,M,Q712718,way
 "Leo Dartelaan",wikidata,M,Q87099004,way
 "Léon Schreursvest",wikidata,M,Q2207177,way
 "Leopold Vanderkelenstraat",wikidata,M,Q2467441,way
