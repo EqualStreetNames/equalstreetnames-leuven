@@ -246,7 +246,6 @@ Eikenbergstraat,,,,way
 Eikenboslaan,,,,way
 Eikstraat,,,,way
 Eksterveldstraat,,,,way
-"Elf Novemberlaan",,,,way
 Elfnovemberlaan,,,,way
 Elfpad,,,,way
 Elzasgang,,,,relation
@@ -277,7 +276,6 @@ Fortlaan,,,,way
 "Frans Nensstraat",,,,way
 "Frans Vermeylenstraat",,,,way
 "Franz Schollaertstraat",,,,way
-"Frederik Lintstraat",,,,way
 Galgebergstraat,,,,way
 Gansepoelveld,,,,way
 Garestalaan,,,,way
@@ -351,6 +349,7 @@ Herbeemdpad,,,,way
 Herendreef,,,,way
 Herentsesteenweg,,,,way
 Herestraat,,,,way
+"Herestraat 49",,,,way
 Herfstlaan,,,,way
 "Herman Teirlincklaan",,,,way
 Hertendries,,,,relation
@@ -368,6 +367,7 @@ Hoegaardsestraat,,,,way
 Hoge-Berglaan,,,,way
 Hogeschoolplein,,,,way
 Hogestraat,,,,way
+"Holle Weg (H31)",,,,way
 Hollestraat,,,,way
 Holsbeeksesteenweg,,,,way
 Hommelstraat,,,,way
@@ -559,7 +559,7 @@ Margarethaplein,,,,way
 "Marguerite Lefèvrelaan",,,,way
 "Maria Jacqueslaan",,,,way
 "Maria Van Belstraat",,,,way
-Maria-Theresiastraat,,,,relation+way
+Maria-Theresiastraat,,,,relation
 "Marie Clootsstraat",,,,way
 "Marie Lemairestraat",,,,way
 "Marie Thumas Durieux brug",,,,way
