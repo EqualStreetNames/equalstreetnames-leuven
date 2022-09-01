@@ -231,6 +231,9 @@ Duisburgsestraat,,,,way
 Duivelsweg,,,,relation
 Duivenstraat,,,,way
 Durasstraat,,,,way
+E-B,,,,way
+"E-BIB ingang fietsparking",,,,way
+"E-BIB secondary entrance path",,,,way
 Eburonenlaan,,,,way
 Edelzangerslaan,,,,way
 "Edouard Remyvest",,,,way
@@ -551,6 +554,7 @@ Lostraat,,,,way
 "Louis Pasteurwijk",,,,way
 "Louis Tielemanswijk",,,,way
 "Louis Woutersstraat",,,,way
+Lovensevoetpad,,,,way
 Lovensveldstraat,,,,way
 Lozeweg,,,,way
 Lüdenscheidsingel,,,,way
@@ -825,6 +829,7 @@ Spreeuwenstraat,,,,way
 Sprinkhanenpad,,,,way
 Stadionlaan,,,,way
 Stadsvest,,,,way
+"Staircase with wheelchair access and bike parking",,,,way
 Standonckstraat,,,,way
 Stapelhuisplein,,,,way
 Stapelhuisstraat,,,,way
@@ -902,6 +907,7 @@ Valleistraat,,,,way
 "Vanden Tymplestraat",,,,way
 Varenspad,,,,way
 Veeweidelaan,,,,way
+Veeweidestraat,,,,way
 Veilingweg,,,,way
 Velderblok,,,,way
 Veldlaan,,,,way
@@ -955,7 +961,7 @@ Waaistraat,,,,way
 Wagenweg,,,,way
 Wakkerzeelsebaan,,,,way
 Wandelingstraat,,,,way
-Warandelaan,,,,relation
+Warandelaan,,,,way
 Waterleidingstraat,,,,way
 Waterlelielaan,,,,way
 Waterlelieplein,,,,relation
