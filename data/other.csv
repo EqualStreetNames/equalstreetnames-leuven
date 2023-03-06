@@ -65,7 +65,6 @@ Achturenstraat,,,,way
 Alaudastraat,,,,relation
 "Alberdingk Thymlaan",,,,way
 "Albert Dejonghestraat",,,,way
-"Albert Stainierstraat",,,,way
 "Albert Woutersstraat",,,,way
 "Albrecht Rodenbachstraat",,,,way
 Albrechtplein,,,,relation
@@ -86,14 +85,11 @@ Arendstraat,,,,way
 Asstraat,,,,way
 Atalantastraat,,,,way
 Atelierstraat,,,,relation
-"August Vermeylenlaan",,,,way
 Augustijnenstraat,,,,way
 Banhagestraat,,,,relation
 Bankstraat,,,,way
 Bareelweg,,,,way
 "Baron August de Becker Remyplein",,,,way
-"Baron Descampslaan",,,,way
-"Baron E. Descampslaan",,,,way
 "Baron d'Eynattenstraat",,,,way
 Bastion,,,,way
 Bavenhofstraat,,,,way
@@ -217,7 +213,6 @@ Distelvinkenstraat,,,,way
 Dodendreef,,,,way
 Doleegstraat,,,,way
 Domeinstraat,,,,way
-"Don Boscolaan",,,,way
 Dongelsplein,,,,way
 Donkerstraat,,,,way
 Doornbergpad,,,,way
@@ -254,7 +249,6 @@ Elfnovemberlaan,,,,way
 Elfpad,,,,way
 Elzasgang,,,,relation
 "Emiel Vlieberghlaan",,,,way
-"Emile Van Arenberghstraat",,,,way
 "Engels Plein",,,,way
 "Englebert Carleerlaan",,,,way
 "Ernest Solvaystraat",,,,way
@@ -279,13 +273,11 @@ Fortlaan,,,,way
 "Frans Nackaertsstraat",,,,way
 "Frans Nensstraat",,,,way
 "Frans Vermeylenstraat",,,,way
-"Franz Schollaertstraat",,,,way
 Galgebergstraat,,,,way
 Gansepoelveld,,,,way
 Garestalaan,,,,way
 Gasthuisberglaan,,,,way
 Gasthuisbosstraat,,,,way
-"Gaston Eyskenslaan",,,,way
 "Gaston Feremanslaan",,,,relation
 "Gebroeders Tassetstraat",,,,way
 Geldenaaksebaan,,,,relation
@@ -355,9 +347,7 @@ Herentsesteenweg,,,,way
 Herestraat,,,,way
 "Herestraat 49",,,,way
 Herfstlaan,,,,way
-"Herman Teirlincklaan",,,,way
 Hertendries,,,,relation
-"Hertog Engelbertlaan",,,,way
 "Hertog Jan I-straat",,,,way
 Hertogstraat,,,,way
 Hertstraat,,,,way
@@ -421,9 +411,9 @@ Jodenstraat,,,,way
 "Joos Florquinlaan",,,,relation
 "Jos De Haeslaan",,,,relation
 "Joseph Ravoetstraat",,,,way
-"Jozef Deveusterlaan",,,,way
 "Jozef II-straat",,,,way
 "Jozef Pierrestraat",,,,way
+"Jozef Vounckplein",,,,way
 "Jozef Wautersstraat",,,,way
 "Jules Persoonsstraat",,,,way
 "Juliaan Haestweg",,,,way
@@ -481,7 +471,6 @@ Koksijdewijk,,,,way
 "Kolonel Begaultlaan",,,,way
 Kolveniershof,,,,way
 Konijnenpijp,,,,way
-"Koning Albertlaan",,,,way
 "Koning Albertplein",,,,way
 Koningsstraat,,,,way
 Koperslagerij,,,,way
@@ -553,7 +542,6 @@ Lombaardenstraat,,,,way
 Lopad,,,,way
 Losbergenlaan,,,,way
 Lostraat,,,,way
-"Louis Pasteurwijk",,,,way
 "Louis Tielemanswijk",,,,way
 "Louis Woutersstraat",,,,way
 Lovensveldstraat,,,,way
@@ -563,7 +551,6 @@ Lüdenscheidsingel,,,,way
 Margarethaplein,,,,way
 "Marguerite Lefèvrelaan",,,,way
 "Maria Jacqueslaan",,,,way
-"Maria Van Belstraat",,,,way
 Maria-Theresiastraat,,,,relation
 "Marie Clootsstraat",,,,way
 "Marie Lemairestraat",,,,way
@@ -602,7 +589,6 @@ Molenveldplein,,,,way
 Molstraat,,,,relation
 Molweg,,,,way
 Monnikenstraat,,,,way
-"Monseigneur Van Waeyenberghlaan",,,,way
 Mothstraat,,,,way
 Muntstraat,,,,way
 Musbergpad,,,,relation
@@ -625,10 +611,10 @@ Oaselaan,,,,relation
 Onafhankelijkheidsstraat,,,,relation
 Onbekend,,,,way
 Onderdoorgang,,,,way
+"Ondergrondse gangenstelsel",,,,way
 Ondernemingenweg,,,,way
 Ontvoogdingstraat,,,,way
 "Onze toevluchtstraat",,,,way
-Onze-Lieve-Vrouwstraat,,,,way
 Ooiendonk,,,,relation
 Oostertunnel,,,,way
 "Op De Vliet",,,,way
@@ -665,7 +651,6 @@ Pasteelsblokweg,,,,way
 "Pastoor Legrandstraat",,,,way
 Pastorijweg,,,,way
 Paswerkerij,,,,way
-"Pater Lievenslaan",,,,way
 "Pater Perquylaan",,,,way
 Paternosterstraat,,,,way
 Patrijzenlaan,,,,way
@@ -685,7 +670,6 @@ Petrusberg,,,,way
 Philipslaan,,,,way
 Philipsplein,,,,way
 "Pierre Joseph Van Benedenstraat",,,,way
-"Pierre Joseph Verhaghenstraat",,,,way
 "Pieter Nollekensstraat",,,,way
 "Pieter Paradaenslaan",,,,way
 "Pieter Van Dalepad",,,,way
@@ -702,7 +686,6 @@ Poortveldstraat,,,,way
 Populierenlaan,,,,way
 Praegeweg,,,,way
 Prelatenstraat,,,,way
-"Priester Daensstraat",,,,way
 "Prins Regentplein",,,,way
 Prins-Regentlaan,,,,way
 Prins-Regentplein,,,,way
@@ -733,7 +716,6 @@ Reeboklaan,,,,way
 Refugehof,,,,way
 Remisebosweg,,,,way
 "Remy Alloingstraat",,,,way
-Remylaan,,,,way
 "René Verbeeckstraat",,,,way
 "René de Clercqlaan",,,,relation
 Rennes-Singel,,,,way
@@ -787,7 +769,6 @@ Schrijnmakersstraat,,,,way
 Sellekensstraat,,,,way
 "Seppe Deckersweg",,,,way
 "Sint Hadrianusstraat",,,,way
-Sint-Annastraat,,,,way
 Sint-Antoniusberg,,,,relation
 Sint-Barbarastraat,,,,way
 Sint-Hubertusstraat,,,,way
