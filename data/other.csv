@@ -6,12 +6,11 @@ Diestsepoort,wikidata,,Q743236,way
 Diestsesteenweg,wikidata,,Q743236,way
 Diestsestraat,wikidata,,Q743236,way
 Diestsevest,wikidata,,Q743236,way
-Esperantolaan,wikidata,,Q143,relation
 Lepelstraat,wikidata,,Q743236,way
 Leuvensestraat,wikidata,,Q118958,way
 Minderbroedersstraat,wikidata,,Q165005,relation+way
 Naamsepoort,wikidata,,Q134121,way
-Naamsesteenweg,wikidata,,Q134121,relation+way
+Naamsesteenweg,wikidata,,Q134121,way
 Naamsestraat,wikidata,,Q134121,relation+way
 Naamsevest,wikidata,,Q134121,way
 Nerviërsstraat,wikidata,,Q756812,way
@@ -162,7 +161,6 @@ Broekstraat,,,,relation
 Broekweg,,,,way
 Bronlaan,,,,way
 Brouwersstraat,,,,way
-"Brug voor Fietssnelweg F29 nog aan te leggen",,,,way
 Brugbergpad,,,,way
 Brugstraat,,,,relation+way
 Brugveldstraat,,,,way
@@ -253,6 +251,7 @@ Elzasgang,,,,relation
 "Englebert Carleerlaan",,,,way
 "Ernest Solvaystraat",,,,way
 Escoriallaan,,,,relation
+Esperantolaan,,,,way
 Esplanadelaan,,,,way
 "Eugeen Vanhoorenbekelaan",,,,way
 Evenementenlaan,,,,relation+way
@@ -280,7 +279,7 @@ Gasthuisberglaan,,,,way
 Gasthuisbosstraat,,,,way
 "Gaston Feremanslaan",,,,relation
 "Gebroeders Tassetstraat",,,,way
-Geldenaaksebaan,,,,relation
+Geldenaaksebaan,,,,way
 Geldenaaksevest,,,,way
 Gelijkheidsstraat,,,,way
 Gemeenteplein,,,,way
@@ -301,7 +300,7 @@ Goudfazantenlaan,,,,way
 Goudsbloemstraat,,,,way
 "Graaf de Grunnelaan",,,,way
 Grasmushof,,,,way
-Grauwmeer,,,,relation
+Grauwmeer,,,,way
 Grensstraat,,,,way
 Grezweg,,,,way
 Grimdestraat,,,,way
@@ -381,8 +380,8 @@ IJzerenwegstraat,,,,way
 IJzersteenpad,,,,way
 Idalaan,,,,way
 "Ierse Predikherenstraat",,,,way
-Industrieweg,,,,relation
-Interleuvenlaan,,,,relation
+Industrieweg,,,,way
+Interleuvenlaan,,,,way
 Invalidenlaan,,,,way
 Isabellaplein,,,,relation
 Jaagpad,,,,way
@@ -597,7 +596,7 @@ Muurkruidstraat,,,,way
 Nachtegalenstraat,,,,way
 Natuurvriendenlaan,,,,way
 Negenbunderspad,,,,way
-Neringenweg,,,,relation
+Neringenweg,,,,way
 "Nieuwe Bornestraat",,,,way
 "Nieuwe Kerkhofdreef",,,,way
 "Nieuwe Mechelsesteenweg",,,,way
@@ -719,7 +718,6 @@ Remisebosweg,,,,way
 "René de Clercqlaan",,,,relation
 Rennes-Singel,,,,way
 "Rerum Novarumlaan",,,,way
-"Researchpark Haasrode",,,,relation
 "Richard Valvekensstraat",,,,way
 Riddersstraat,,,,way
 Rietensplein,,,,way
