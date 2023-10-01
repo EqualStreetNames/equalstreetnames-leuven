@@ -176,6 +176,7 @@ Busleidengang,,,,way
 "Buurtweg 3",,,,way
 "Buurtweg 37",,,,way
 "Buurtweg 41",,,,way
+"Buurtweg nr 63",,,,way
 Cardenberch,,,,way
 Casablancalaan,,,,way
 Casinolaan,,,,way
@@ -324,7 +325,7 @@ Halleboomstraat,,,,way
 Hallengang,,,,way
 Halvestraat,,,,way
 Hambosstraat,,,,way
-Hambrugpad,,,,way
+Hambrugpad,,,,relation
 Hamelbroek,,,,way
 Handbooghof,,,,way
 Hanengang,,,,way
@@ -558,6 +559,7 @@ Maria-Theresiastraat,,,,relation
 "Marie Thumas Durieuxbrug",,,,way
 "Marie-Elisabeth Belpairestraat",,,,way
 Marrainenplein,,,,way
+"Marrainenplein bis",,,,way
 Martelarenlaan,,,,relation+way
 Martelarenplein,,,,relation
 Martellekensweg,,,,way
@@ -619,7 +621,7 @@ Ontvoogdingstraat,,,,way
 Ooiendonk,,,,relation
 Oosterhemstraat,,,,way
 Oostertunnel,,,,way
-"Op De Vliet",,,,way
+"Op de Vliet",,,,way
 Oppendorpgang,,,,way
 Opvoedingstraat,,,,way
 Oratorianenpad,,,,way
@@ -1006,8 +1008,6 @@ Zwaluwendreef,,,,way
 Zwaluwenlaan,,,,way
 Zwanenberglaan,,,,way
 Zwartzustersstraat,,,,way
-"buurtweg 28",,,,way
-"buurtweg nr 63",,,,way
 "ceremonie plein",,,,way
 "t' Zijpad",,,,way
 wandelstraat,,,,way
