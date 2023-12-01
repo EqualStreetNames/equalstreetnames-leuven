@@ -143,6 +143,7 @@ Boskantlaan,,,,relation
 Boskouter,,,,way
 Boslaan,,,,way
 Bosstraat,,,,way
+Bottelarij,,,,way
 Boulevardstraat,,,,way
 Bovenloweg,,,,way
 Bovenplein,,,,way
@@ -267,6 +268,7 @@ Filosofendreef,,,,way
 Filosofenlaan,,,,way
 "Finse Piste",,,,way
 "Finse piste",,,,way
+Flessentrekkerspad,,,,way
 Fonteinstraat,,,,way
 Fortlaan,,,,way
 "François Demarsinstraat",,,,way
@@ -560,7 +562,6 @@ Maria-Theresiastraat,,,,relation
 "Marie Thumas Durieuxbrug",,,,way
 "Marie-Elisabeth Belpairestraat",,,,way
 Marrainenplein,,,,way
-"Marrainenplein bis",,,,way
 Martelarenlaan,,,,relation+way
 Martelarenplein,,,,relation
 Martellekensweg,,,,way
@@ -614,7 +615,6 @@ Noormannenstraat,,,,way
 Norbertijnerweg,,,,way
 Oaselaan,,,,relation
 Onafhankelijkheidsstraat,,,,relation
-Onbekend,,,,way
 Onderdoorgang,,,,way
 Ondernemingenweg,,,,way
 Ontvoogdingstraat,,,,way
@@ -772,6 +772,7 @@ Schrijnmakersstraat,,,,way
 Sellekensstraat,,,,way
 "Seppe Deckersweg",,,,way
 "Sint Hadrianusstraat",,,,way
+Sint-Agathaplein,,,,way
 Sint-Antoniusberg,,,,relation
 Sint-Barbarastraat,,,,way
 Sint-Hadrianusstraat,,,,way
