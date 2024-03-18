@@ -3,15 +3,18 @@ name: Update data
 on:
   schedule:
     - cron: "30 3 1 * *"
+  workflow_dispatch:
   push:
     paths:
       - ".github/workflows/update-data.yml"
       - "config.php"
+      - "data.csv"
       - "overpass/*"
   pull_request:
     paths:
       - ".github/workflows/update-data.yml"
       - "config.php"
+      - "data.csv"
       - "overpass/*"
 
 jobs:
