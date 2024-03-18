@@ -33,6 +33,7 @@ Volmolenlaan,wikidata,,Q21045580,way
 "'s Meiersstraat",,,,way
 's-Hertogenlaan,,,,way
 's-Hertogenwijngaard,,,,way
+"(level 5)",,,,way
 1,,,,way
 2,,,,way
 3,,,,way
@@ -122,6 +123,10 @@ Biezenstraat,,,,way
 Bijendreef,,,,way
 "Blauwe Hoek",,,,way
 "Blauwe steen",,,,way
+"Blauwe straat (level 2)",,,,way
+"Blauwe straat (level 3)",,,,way
+"Blauwe straat (level 4)",,,,way
+"Blauwe straat (level 5)",,,,way
 Blauwputgang,,,,way
 Blauwputplein,,,,way
 Bleydenberglaan,,,,way
@@ -166,6 +171,8 @@ Brouwersstraat,,,,way
 Brugbergpad,,,,way
 Brugstraat,,,,relation+way
 Brugveldstraat,,,,way
+"Bruine straat",,,,way
+"Bruine straat (level 1)",,,,way
 Bruineveld,,,,way
 Bruineveldpad,,,,way
 Brusselsesteenweg,,,,way
@@ -183,6 +190,7 @@ Cardenberch,,,,way
 Casablancalaan,,,,way
 Casinolaan,,,,way
 Centrumstraat,,,,way
+"Claire Vellutstraat",,,,way
 Collegeberg,,,,way
 Compostweg,,,,way
 Crabeelsweg,,,,way
@@ -286,6 +294,7 @@ Gasthuisbosstraat,,,,way
 "Gebroeders Tassetstraat",,,,way
 Geldenaaksebaan,,,,way
 Geldenaaksevest,,,,way
+"Gele straat (level 1)",,,,way
 Gelijkheidsstraat,,,,way
 Gemeenteplein,,,,way
 Gemeentestraat,,,,way
@@ -314,6 +323,7 @@ Groddeweg,,,,way
 Groefgang,,,,way
 Groefplein,,,,way
 Groefstraat,,,,way
+"Groene straat (level 1)",,,,way
 Groeneweg,,,,way
 Groeningestraat,,,,way
 Groenstraat,,,,relation+way
@@ -446,8 +456,8 @@ Kerkhofdreef,,,,way
 Kerkstraat,,,,way
 Kerselarenstraat,,,,way
 Kerspelstraat,,,,way
-Kessel-losesteenweg,,,,way
-Kessel-losteenweg,,,,way
+"Kerstine Liedekensstraat",,,,way
+Kessel-Losesteenweg,,,,way
 Kesselbergpad,,,,way
 Kesseldallaan,,,,way
 Kesselpad,,,,way
@@ -613,6 +623,7 @@ Nieuwstraat,,,,way
 Nijvelsebaan,,,,way
 Noormannenstraat,,,,way
 Norbertijnerweg,,,,way
+OOST,,,,way
 Oaselaan,,,,relation
 Onafhankelijkheidsstraat,,,,relation
 Onderdoorgang,,,,way
@@ -625,6 +636,8 @@ Oostertunnel,,,,way
 "Op de Vliet",,,,way
 Oppendorpgang,,,,way
 Opvoedingstraat,,,,way
+"Oranje Straat (level 0)",,,,way
+"Oranje straat (level 0)",,,,way
 Oratorianenpad,,,,way
 Ormendaal,,,,way
 Ormendaalpad,,,,way
@@ -735,6 +748,7 @@ Rijschoolstraat,,,,way
 "Ring Zuid",,,,way
 Ristweg,,,,way
 Rixvonderendijk,,,,way
+"Rode straat (level 1)",,,,way
 Roeselbergdal,,,,way
 Roggepad,,,,way
 "Rond Arena",,,,way
@@ -1006,10 +1020,25 @@ Zevenslapersstraat,,,,way
 Ziekelingenstraat,,,,relation
 Zongang,,,,relation+way
 Zoutstraat,,,,way
+"Zuster Jules-Marie Heymansstraat",,,,way
 Zwaluwendreef,,,,way
 Zwaluwenlaan,,,,way
 Zwanenberglaan,,,,way
 Zwartzustersstraat,,,,way
 "ceremonie plein",,,,way
+"level   1 <-> 4",,,,way
+"level 0",,,,way
+"level 1 <-> 3",,,,way
+"level 1 tunnel",,,,way
+"level 2 <-> 3",,,,way
+"level 3",,,,way
+"level 3 <-> 4",,,,way
+"level 3<->4",,,,way
+"level 4",,,,way
+"level 4 <-> 5",,,,way
+"level 4 <-> 6",,,,way
+"level 4<->5",,,,way
+"level 5",,,,way
 "t' Zijpad",,,,way
-wandelstraat,,,,way
+"trappen  level  0 <-> 1",,,,way
+"trappen (level 0<->1)",,,,way
