@@ -34,6 +34,7 @@ Volmolenlaan,wikidata,,Q21045580,way
 's-Hertogenlaan,,,,way
 's-Hertogenwijngaard,,,,way
 "(level 5)",,,,way
+"<-> Parking",,,,way
 1,,,,way
 2,,,,way
 3,,,,way
@@ -79,7 +80,6 @@ Amerikalaan,,,,way
 "André Emondstraat",,,,way
 Ankerstraat,,,,way
 "Antonius Rodolphestraat",,,,way
-Apothekerspad,,,,way
 Arendstraat,,,,way
 "Armand Meyswijk",,,,way
 Asstraat,,,,way
@@ -660,6 +660,7 @@ Panoramalaan,,,,way
 Parijsstraat,,,,way
 Parkbosstraat,,,,way
 Parkdallaan,,,,way
+"Parking Tabor Level 0",,,,way
 Parnassusbergdreef,,,,way
 Partisanenstraat,,,,way
 Pasteelsblokweg,,,,way
@@ -978,6 +979,7 @@ Weidestraat,,,,way
 Weldadigheidsstraat,,,,way
 Werkhuizenstraat,,,,way
 Werkmanstraat,,,,way
+"West Toegang (Plateau level 2)",,,,way
 Wielewaallaan,,,,way
 Wieringstraat,,,,way
 Wijgmaalbroek,,,,way
@@ -1027,9 +1029,11 @@ Zwanenberglaan,,,,way
 Zwartzustersstraat,,,,way
 "ceremonie plein",,,,way
 "level   1 <-> 4",,,,way
+"level -1 <->1",,,,way
 "level 0",,,,way
 "level 1 <-> 3",,,,way
 "level 1 tunnel",,,,way
+"level 2 <-> 1",,,,way
 "level 2 <-> 3",,,,way
 "level 3",,,,way
 "level 3 <-> 4",,,,way
