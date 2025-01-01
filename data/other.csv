@@ -7,6 +7,7 @@ Diestsesteenweg,wikidata,,Q743236,way
 Diestsestraat,wikidata,,Q743236,way
 Diestsevest,wikidata,,Q743236,way
 Lepelstraat,wikidata,,Q743236,way
+Leuvensebaan,wikidata,,Q118958,relation
 Leuvensestraat,wikidata,,Q118958,way
 Minderbroedersstraat,wikidata,,Q165005,relation+way
 Naamsepoort,wikidata,,Q134121,way
@@ -33,8 +34,7 @@ Volmolenlaan,wikidata,,Q21045580,way
 "'s Meiersstraat",,,,way
 's-Hertogenlaan,,,,way
 's-Hertogenwijngaard,,,,way
-"(level 5)",,,,way
-"<-> Parking",,,,way
+-2<->-1,,,,way
 1,,,,way
 2,,,,way
 3,,,,way
@@ -122,12 +122,13 @@ Bierbeekstraat,,,,way
 Bieststraat,,,,way
 Biezenstraat,,,,way
 Bijendreef,,,,way
+Blauwe,,,,way
 "Blauwe Hoek",,,,way
 "Blauwe steen",,,,way
+"Blauwe straat",,,,way
 "Blauwe straat (level 2)",,,,way
 "Blauwe straat (level 3)",,,,way
 "Blauwe straat (level 4)",,,,way
-"Blauwe straat (level 5)",,,,way
 Blauwputgang,,,,way
 Blauwputplein,,,,way
 Bleydenberglaan,,,,way
@@ -173,7 +174,7 @@ Brugbergpad,,,,way
 Brugstraat,,,,relation+way
 Brugveldstraat,,,,way
 "Bruine straat",,,,way
-"Bruine straat (level 1)",,,,way
+"Bruine straat (level L1)",,,,way
 Bruineveld,,,,way
 Bruineveldpad,,,,way
 Brusselsesteenweg,,,,way
@@ -214,7 +215,7 @@ Dennenboslaan,,,,way
 Dennendreef,,,,way
 Dennenlaan,,,,way
 "Desire Mellaertspad",,,,way
-"Desire Mellaertsstraat",,,,way
+"Désiré Mellaertsstraat",,,,way
 Dijkstraat,,,,way
 Dijlebrug,,,,way
 Dijledreef,,,,way
@@ -295,6 +296,7 @@ Gasthuisbosstraat,,,,way
 "Gebroeders Tassetstraat",,,,way
 Geldenaaksebaan,,,,way
 Geldenaaksevest,,,,way
+"Gele (level 1)",,,,way
 "Gele straat (level 1)",,,,way
 Gelijkheidsstraat,,,,way
 Gemeenteplein,,,,way
@@ -625,7 +627,6 @@ Nijvelsebaan,,,,way
 Noormannenstraat,,,,way
 Norbertijnerweg,,,,way
 OOST,,,,way
-Oaselaan,,,,relation
 Onafhankelijkheidsstraat,,,,relation
 Onderdoorgang,,,,way
 Ondernemingenweg,,,,way
@@ -655,13 +656,14 @@ Overlo,,,,relation
 Overloopstraat,,,,way
 Overwinningstraat,,,,way
 Paardenweg,,,,way
+"Paarse straat (level 1)",,,,way
 Pachthof,,,,way
 Pakenstraat,,,,way
 Panoramalaan,,,,way
 Parijsstraat,,,,way
 Parkbosstraat,,,,way
 Parkdallaan,,,,way
-"Parking Tabor Level 0",,,,way
+"Parking <-> Reception",,,,way
 Parnassusbergdreef,,,,way
 Partisanenstraat,,,,way
 Pasteelsblokweg,,,,way
@@ -702,6 +704,7 @@ Ploegstaart,,,,way
 Poelstraat,,,,way
 "Politieke Gevangenenlaan",,,,way
 Pompstraat,,,,way
+"Poort 4",,,,way
 Poortveldstraat,,,,way
 Populierenlaan,,,,way
 Praegeweg,,,,way
@@ -750,7 +753,7 @@ Rijschoolstraat,,,,way
 "Ring Zuid",,,,way
 Ristweg,,,,way
 Rixvonderendijk,,,,way
-"Rode straat (level 1)",,,,way
+"Rode straat (level L1)",,,,way
 Roeselbergdal,,,,way
 Roggepad,,,,way
 "Rond Arena",,,,way
@@ -771,6 +774,7 @@ Rozenstraat,,,,way
 Ruiterslaan,,,,way
 Rustoordlaan,,,,way
 Ruteriuspad,,,,way
+"SPOED + Parking Tabor Level 0",,,,way
 Saffranenbergstraat,,,,way
 Sapellenbos,,,,way
 Schakellaan,,,,way
@@ -794,7 +798,6 @@ Sint-Barbarastraat,,,,way
 Sint-Hadrianusstraat,,,,way
 Sint-Hubertusstraat,,,,way
 Sint-Jacobsplein,,,,way
-Sint-Janbergsesteenweg,,,,way
 Sint-Jansbergsesteenweg,,,,way
 Sint-Jorislaan,,,,way
 Sint-Maartenstraat,,,,way
@@ -824,6 +827,7 @@ Sparrenweg,,,,way
 Spechtenstraat,,,,way
 Speelhofpad,,,,way
 Speltstraat,,,,way
+"Spoed - Emergency",,,,way
 Spoordijk,,,,way
 Spoorstraat,,,,way
 Spoorwegstraat,,,,way
@@ -975,6 +979,9 @@ Weduwenrij,,,,way
 Weegbreepad,,,,way
 Weergalmlaan,,,,way
 Weerstandlaan,,,,way
+"Weg A",,,,way
+"Weg F",,,,way
+"Weg G",,,,way
 Weggevoerdenstraat,,,,way
 Weidestraat,,,,way
 Weldadigheidsstraat,,,,way
@@ -1032,6 +1039,7 @@ Zwartzustersstraat,,,,way
 "level   1 <-> 4",,,,way
 "level -1 <->1",,,,way
 "level 0",,,,way
+"level 1",,,,way
 "level 1 <-> 3",,,,way
 "level 1 tunnel",,,,way
 "level 2 <-> 1",,,,way
