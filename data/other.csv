@@ -206,11 +206,11 @@ Dalemhof,,,,way
 Damendreef,,,,way
 "Damendreef / Vinkenbosstraat",,,,way
 Daneelsgang,,,,way
-"De 4 Vaantjes",,,,way
 "De Angelispad",,,,way
 "De Drie Kreeften",,,,way
 "De Hoorn",,,,way
 "De Roestestraat",,,,way
+"De Vier Vaantjes",,,,way
 Dekenstraat,,,,way
 Dellenhof,,,,way
 "Den Boschsingel",,,,way
@@ -382,7 +382,6 @@ Hoegaardsestraat,,,,way
 Hoge-Berglaan,,,,way
 Hogeschoolplein,,,,way
 Hogestraat,,,,way
-"Holle Weg (H31)",,,,way
 Hollestraat,,,,way
 Holsbeeksesteenweg,,,,way
 Hommelstraat,,,,way
@@ -468,6 +467,7 @@ Kerspelstraat,,,,way
 "Kerstine Liedekensstraat",,,,way
 Kessel-Losesteenweg,,,,way
 Kesselbergpad,,,,way
+Kesselbergplein,,,,way
 Kesseldallaan,,,,way
 Kesselpad,,,,way
 Kesselsteinplein,,,,way
@@ -527,7 +527,8 @@ Landbouwstraat,,,,way
 "Lange Beemdenlaan",,,,way
 "Lange Hagen",,,,relation
 "Lange Lostraat",,,,way
-"Lange Lostraat - Rozenweg",,,,way
+"Lange Lostraat / Langelostraat",,,,way
+"Lange Lostraat / Rozenweg",,,,way
 Langekant,,,,way
 Langenbos,,,,way
 Langendaallaan,,,,relation
@@ -556,6 +557,7 @@ Lijsterlaan,,,,way
 Lindelaan,,,,way
 Lindenronde,,,,way
 Lindensestraat,,,,way
+Linninkpad,,,,way
 Lissenweg,,,,way
 Lobergenbos,,,,way
 Locomotievenstraat,,,,way
@@ -704,7 +706,6 @@ Philipsplein,,,,way
 Pikkelstraat,,,,way
 Pioengang,,,,way
 Plankenbospad,,,,way
-"Platte Lostraat",,,,way
 Platte-Lostraat,,,,way
 Pleinstraat,,,,way
 Ploegstaart,,,,way
@@ -798,7 +799,6 @@ Schrijnmakersstraat,,,,way
 "Scouts en Gidsen pad",,,,way
 Sellekensstraat,,,,way
 "Seppe Deckersweg",,,,way
-"Sint Hadrianusstraat",,,,way
 Sint-Agathaplein,,,,way
 Sint-Antoniusberg,,,,relation
 Sint-Barbarastraat,,,,way
@@ -1027,6 +1027,7 @@ Woudluchtstraat,,,,way
 Zandgang,,,,way
 Zavelberg,,,,way
 Zavelputstraat,,,,way
+"Zavelputstraat (H31)",,,,way
 Zavelstraat,,,,way
 Zeelstraat,,,,way
 Zeepweg,,,,way
