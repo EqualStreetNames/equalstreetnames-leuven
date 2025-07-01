@@ -52,7 +52,6 @@ Volmolenlaan,wikidata,,Q21045580,way
 Aambeeldstraat,,,,way
 Aapark,,,,way
 Aarschotsesteenweg,,,,way
-"Aarschotseweg / Alfons Stesselstraat",,,,way
 "Abdij Van Vlierbeek",,,,way
 "Abdij Vlierbeek",,,,way
 "Abdij van Park",,,,relation
@@ -276,6 +275,7 @@ Esplanadelaan,,,,way
 "Eugeen Vanhoorenbekelaan",,,,way
 Evenementenlaan,,,,relation+way
 Expresweg,,,,way
+F25,,,,way
 "Familie De Bayostraat",,,,way
 Fazantenlaan,,,,way
 "Ferdinand Perdieusstraat",,,,way
@@ -349,6 +349,7 @@ Hallengang,,,,way
 Halvestraat,,,,way
 Hambosstraat,,,,way
 Hambrugpad,,,,relation
+Hamburgpad,,,,way
 Hamelbroek,,,,way
 Handbooghof,,,,way
 Hanengang,,,,way
