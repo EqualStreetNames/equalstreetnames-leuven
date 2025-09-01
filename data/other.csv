@@ -224,7 +224,9 @@ Dennenlaan,,,,way
 Dijkstraat,,,,way
 Dijlebrug,,,,way
 Dijledreef,,,,way
+Dijleoever,,,,way
 "Dirk Boutslaan",,,,way
+"Dirt and Gravel Pump Track MPC Terbank vzw",,,,way
 Distelvinkenstraat,,,,way
 Dodendreef,,,,way
 Doleegstraat,,,,way
@@ -244,7 +246,6 @@ Duisburgsestraat,,,,way
 Duivelsweg,,,,relation
 Duivenstraat,,,,way
 Durasstraat,,,,way
-E-B,,,,way
 "E-BIB ingang fietsparking",,,,way
 "E-BIB secondary entrance path",,,,way
 Eburonenlaan,,,,way
@@ -253,6 +254,7 @@ Edelzangerslaan,,,,way
 Eegstraat,,,,way
 Eegveld,,,,way
 Eendebroekstraat,,,,way
+Eendenpad,,,,way
 Eénmeilaan,,,,way
 Eeuwfeeststraat,,,,way
 Egelantierlaan,,,,way
@@ -275,6 +277,7 @@ Esplanadelaan,,,,way
 "Eugeen Vanhoorenbekelaan",,,,way
 Evenementenlaan,,,,relation+way
 Expresweg,,,,way
+F8,,,,way
 "Familie De Bayostraat",,,,way
 Fazantenlaan,,,,way
 "Ferdinand Perdieusstraat",,,,way
@@ -369,6 +372,8 @@ Herbeemdpad,,,,way
 Herendreef,,,,way
 Herentsesteenweg,,,,way
 Herestraat,,,,way
+"Herestraat - Ring Noord",,,,way
+"Herestraat - Ring Zuid",,,,way
 Herfstlaan,,,,way
 Hertendries,,,,relation
 "Hertog Jan I-straat",,,,way
@@ -401,7 +406,7 @@ IJzerenmolenstraat,,,,way
 IJzerenwegstraat,,,,way
 IJzersteenpad,,,,way
 Idalaan,,,,way
-"Ierse Predikherenstraat",,,,way
+Ierse-Predikherenstraat,,,,way
 Ijzerenpoortstraat,,,,way
 Industrieweg,,,,way
 Interleuvenlaan,,,,way
@@ -424,7 +429,7 @@ Janseniusstraat,,,,way
 "Jeanne Dormaelsplein",,,,way
 "Jef Scherensstraat",,,,way
 "Jef Van Hooflaan",,,,relation
-"Jef Vanden Eyndelaan",,,,relation
+"Jef Vanden Eyndelaan",,,,relation+way
 Jeneverpad,,,,way
 Jeugdplein,,,,way
 Jeugdstraat,,,,way
@@ -490,6 +495,7 @@ Kloosterdijkpad,,,,way
 Kloosterlaan,,,,way
 Kluisdelle,,,,way
 Kneuterweg,,,,way
+Koekoekspad,,,,way
 Koestaart,,,,way
 Koetsweg,,,,way
 Koksijdepad,,,,way
@@ -664,6 +670,7 @@ Oudebaan,,,,way
 Oudstrijderslaan,,,,way
 Overlo,,,,relation
 Overloopstraat,,,,way
+Overwinningsraat,,,,way
 Overwinningstraat,,,,way
 Paardenweg,,,,way
 "Paarse straat",,,,way
@@ -674,6 +681,7 @@ Parijsstraat,,,,way
 Parkbosstraat,,,,way
 Parkdallaan,,,,way
 "Parking <-> Reception",,,,way
+Parkweg,,,,way
 Parnassusbergdreef,,,,way
 Partisanenstraat,,,,way
 Pasteelsblokweg,,,,way
@@ -761,7 +769,6 @@ Rietveld,,,,way
 Rijdende-Artillerielaan,,,,way
 Rijschoolstraat,,,,way
 "Ring Noord",,,,way
-"Ring Zuid",,,,way
 Ristweg,,,,way
 Rixvonderendijk,,,,way
 "Rode straat (level L1)",,,,way
@@ -805,6 +812,7 @@ Sellekensstraat,,,,way
 Sint-Agathaplein,,,,way
 Sint-Antoniusberg,,,,relation
 Sint-Barbarastraat,,,,way
+Sint-Hadrianusplein,,,,way
 Sint-Hadrianusstraat,,,,way
 Sint-Hubertusstraat,,,,way
 Sint-Jacobsplein,,,,way
@@ -853,7 +861,9 @@ Statiepad,,,,way
 Stationsstraat,,,,way
 Steenakkerstraat,,,,way
 Steenbakkerijstraat,,,,way
+Steenbakkerspad,,,,way
 Steengroevenlaan,,,,way
+"Steenweg Op Wijgmaal",,,,way
 "Steenweg op Holsbeek / Korte Holsbeeksesteenweg",,,,way
 Stenenkruis,,,,way
 "Stijn Streuvelstraat",,,,way
@@ -868,6 +878,7 @@ Strijdersstraat,,,,way
 Struiversstraat,,,,way
 "Studentenwijk Arenberg",,,,way
 Sukkelpad,,,,way
+Sypestraat,,,,way
 Tarweschoof,,,,way
 Technologielaan,,,,way
 "Ten Hovelaan",,,,way
@@ -924,6 +935,7 @@ Valleistraat,,,,way
 "Vanden Tymplestraat",,,,way
 Varenspad,,,,way
 Veeweidelaan,,,,way
+Veeweidepad,,,,way
 Veilingweg,,,,way
 Velderblok,,,,way
 Veldlaan,,,,way
@@ -1008,6 +1020,7 @@ Wijngaardlaan,,,,way
 Wijnpersstraat,,,,way
 Wijveld,,,,way
 Wilderbos,,,,way
+Wildvogelpad,,,,way
 Wilgenhof,,,,relation
 "Willem Coosemansstraat",,,,way
 "Willem Quarrélaan",,,,way
