@@ -1,36 +1,4 @@
 name,source,gender,wikidata,type
-Bondgenotenlaan,wikidata,,Q215669,way
-Burgemeestersstraat,wikidata,,Q30185,way
-Celestijnenlaan,wikidata,,Q1093546,relation+way
-Diestsepoort,wikidata,,Q743236,way
-Diestsesteenweg,wikidata,,Q743236,way
-Diestsestraat,wikidata,,Q743236,way
-Diestsevest,wikidata,,Q743236,way
-Lepelstraat,wikidata,,Q743236,way
-Leuvensebaan,wikidata,,Q118958,relation
-Leuvensestraat,wikidata,,Q118958,way
-Minderbroedersstraat,wikidata,,Q165005,relation+way
-Naamsepoort,wikidata,,Q134121,way
-Naamsesteenweg,wikidata,,Q134121,way
-Naamsestraat,wikidata,,Q134121,relation+way
-Naamsevest,wikidata,,Q134121,way
-Nerviërsstraat,wikidata,,Q756812,way
-"Oude Diestsesteenweg",wikidata,,Q743236,way
-Parkpoort,wikidata,,Q476178,way
-Parkstraat,wikidata,,Q476178,way
-Philipssite,wikidata,,Q170416,relation+way
-Predikherenberg,wikidata,,Q131479,way
-Predikherenstraat,wikidata,,Q131479,way
-Predikherinnenstraat,wikidata,,Q131479,way
-"Prins De Lignestraat",wikidata,,Q3922015,way
-"Romeinse straat",wikidata,,Q194029,way
-Savoyestraat,wikidata,,Q14118,way
-Tervuursepoort,wikidata,,Q456544,way
-Tervuursesteenweg,wikidata,,Q456544,relation+way
-Tervuursestraat,wikidata,,Q456544,way
-Tiensesteenweg,wikidata,,Q456550,relation+way
-Tomveldstraat,wikidata,,Q34023,way
-Volmolenlaan,wikidata,,Q21045580,way
 "'s Meiersstraat",,,,way
 's-Hertogenlaan,,,,way
 's-Hertogenwijngaard,,,,way
@@ -59,7 +27,7 @@ Abdijdreef,,,,way
 Abdijstraat,,,,relation+way
 Acaciaplein,,,,way
 Acaciastraat,,,,way
-Acht-meistraat,,,,way
+Acht-Meistraat,,,,way
 "Achter de latten",,,,way
 Achttienaprillaan,,,,way
 Achturenstraat,,,,way
@@ -256,6 +224,7 @@ Eegveld,,,,way
 Eendebroekstraat,,,,way
 Eendenpad,,,,way
 Eénmeilaan,,,,way
+Éenmeilaan,,,,way
 Eeuwfeeststraat,,,,way
 Egelantierlaan,,,,way
 Egenhovenweg,,,,way
@@ -277,6 +246,7 @@ Esplanadelaan,,,,way
 "Eugeen Vanhoorenbekelaan",,,,way
 Evenementenlaan,,,,relation+way
 Expresweg,,,,way
+"F25 Leuven - Aarschot",,,,way
 F8,,,,way
 "Familie De Bayostraat",,,,way
 Fazantenlaan,,,,way
@@ -1021,7 +991,7 @@ Wijnpersstraat,,,,way
 Wijveld,,,,way
 Wilderbos,,,,way
 Wildvogelpad,,,,way
-Wilgenhof,,,,relation
+Wilgenhof,,,,relation+way
 "Willem Coosemansstraat",,,,way
 "Willem Quarrélaan",,,,way
 "Willem Vanden Abeelelaan",,,,way
