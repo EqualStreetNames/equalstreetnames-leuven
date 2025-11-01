@@ -68,7 +68,6 @@ Beeklaan,,,,relation
 Beemdenpad,,,,way
 Beemdenstraat,,,,way
 Begijnenberg,,,,relation
-Begijnenpad,,,,way
 Begijnhofkerkstraat,,,,way
 Benedenplein,,,,relation
 Benedenstraat,,,,way
@@ -77,7 +76,7 @@ Benedictijnenpad,,,,way
 "Berg Bogaertlaan",,,,way
 "Berg Taborweg",,,,way
 Berghoekstraat,,,,way
-Bergpad,,,,relation
+Bergpad,,,,way
 Bergstraat,,,,way
 Berkenhoflaan,,,,way
 Bermpad,,,,way
@@ -261,7 +260,7 @@ Flessentrekkerspad,,,,way
 Fonteinstraat,,,,way
 Fortlaan,,,,way
 "François Demarsinstraat",,,,way
-"Frans Nackaertsplein",,,,relation
+"Frans Nackaertsplein",,,,way
 "Frans Nackaertsstraat",,,,way
 "Frans Nensstraat",,,,way
 "Frans Vermeylenstraat",,,,way
@@ -398,7 +397,7 @@ Janseniusstraat,,,,way
 "Jean-Baptiste Ectorsstraat",,,,relation
 "Jeanne Dormaelsplein",,,,way
 "Jef Scherensstraat",,,,way
-"Jef Van Hooflaan",,,,relation
+"Jef Van Hooflaan",,,,relation+way
 "Jef Vanden Eyndelaan",,,,relation+way
 Jeneverpad,,,,way
 Jeugdplein,,,,way
@@ -431,6 +430,7 @@ Karekietenlaan,,,,way
 "Karel Schurmansstraat",,,,way
 Karmelietenberg,,,,way
 Karrendreef,,,,way
+Karthuizerij,,,,way
 Kartuizersstraat,,,,way
 Kastanjelaan,,,,relation
 "Kasteelpark Arenberg",,,,way
@@ -456,6 +456,7 @@ Klaprozenveld,,,,way
 Klaverpark,,,,way
 Klaverstraat,,,,way
 "Klein Begijnhof",,,,way
+"Klein Langeveld",,,,way
 "Klein Straatken",,,,way
 Klein-Rijselstraat,,,,way
 "Kleine Reedelle",,,,way
@@ -503,7 +504,7 @@ Kwadenhoekstraat,,,,way
 Lakenweversstraat,,,,way
 Landbouwstraat,,,,way
 "Lange Beemdenlaan",,,,way
-"Lange Hagen",,,,relation
+"Lange Hagen",,,,relation+way
 "Lange Lostraat",,,,way
 "Lange Lostraat / Langelostraat",,,,way
 "Lange Lostraat / Rozenweg",,,,way
@@ -640,7 +641,6 @@ Oudebaan,,,,way
 Oudstrijderslaan,,,,way
 Overlo,,,,relation
 Overloopstraat,,,,way
-Overwinningsraat,,,,way
 Overwinningstraat,,,,way
 Paardenweg,,,,way
 "Paarse straat",,,,way
@@ -762,7 +762,6 @@ Rozenstraat,,,,way
 Ruiterslaan,,,,way
 Rustoordlaan,,,,way
 Ruteriuspad,,,,way
-"SPOED + Parking Tabor Level 0",,,,way
 Saffranenbergstraat,,,,way
 Sapellenbos,,,,way
 Schakellaan,,,,way
@@ -950,7 +949,7 @@ Vredeplein,,,,way
 Vredestraat,,,,way
 Vriesenhof,,,,way
 Vrijheidstraat,,,,way
-Vuntcomplex,,,,relation+way
+Vuntcomplex,,,,way
 Vuntlaan,,,,way
 Vuntpad,,,,way
 Vuurkruisenlaan,,,,way
