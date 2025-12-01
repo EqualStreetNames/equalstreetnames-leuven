@@ -1,7 +1,6 @@
 name,source,gender,wikidata,type
 Bondgenotenlaan,wikidata,-,Q215669,way
 Burgemeestersstraat,wikidata,-,Q30185,way
-Celestijnenlaan,wikidata,-,Q1093546,relation+way
 Diestsepoort,wikidata,-,Q743236,way
 Diestsesteenweg,wikidata,-,Q743236,way
 Diestsestraat,wikidata,-,Q743236,way
@@ -52,7 +51,6 @@ Sint-Reneldisplein,wikidata,F,Q463631,way
 "Armand Thiérylaan",wikidata,M,Q677843,way
 "Arnould Nobelstraat",wikidata,M,Q1976832,way
 "Arthur De Greefstraat",wikidata,M,Q671682,way
-"Arthur Meulemanslaan",wikidata,M,Q709355,relation+way
 "August Vermeylenlaan",wikidata,M,Q764378,way
 "Baron Descampslaan",wikidata,M,Q382744,way
 "Baron E. Descampslaan",wikidata,M,Q382744,way
@@ -61,7 +59,6 @@ Sint-Reneldisplein,wikidata,F,Q463631,way
 Dagobertstraat,wikidata,M,Q316874,relation
 "Don Boscolaan",wikidata,M,Q146183,way
 "Edward Van Evenstraat",wikidata,M,Q13575404,way
-"Emiel Hullebroecklaan",wikidata,M,Q2316962,relation+way
 "Emile Mathieustraat",wikidata,M,Q2062068,way
 "Emile Van Arenberghstraat",wikidata,M,Q3588775,way
 "Erasme Ruelenspark",wikidata,M,Q87120607,relation
@@ -123,7 +120,6 @@ Lemmensberg,wikidata,M,Q712718,way
 "Rector De Somerplein",wikidata,M,Q352379,relation+way
 "Remi Vandervaerenlaan",wikidata,M,Q2632274,way
 Remylaan,wikidata,M,Q116951900,way
-"Renaat Veremanslaan",wikidata,M,Q2248946,relation
 "Romain Rollandstraat",wikidata,M,Q47162,way
 Sint-Lambertusstraat,wikidata,M,Q283447,way
 "Stanislas De Rijcklaan",wikidata,M,Q15882291,relation

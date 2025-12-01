@@ -52,6 +52,7 @@ Ankerstraat,,,,way
 "Antonius Rodolphestraat",,,,way
 Arendstraat,,,,way
 "Armand Meyswijk",,,,way
+"Arthur Meulemanslaan",,,,way
 Asstraat,,,,way
 Atalantastraat,,,,way
 Atelierstraat,,,,relation
@@ -163,6 +164,7 @@ Busleidengang,,,,way
 Cardenberch,,,,way
 Casablancalaan,,,,way
 Casinolaan,,,,way
+Celestijnenlaan,,,,way
 Centrumstraat,,,,way
 "Claire Vellutstraat",,,,way
 Collegeberg,,,,way
@@ -233,8 +235,8 @@ Eikenboslaan,,,,way
 Eikstraat,,,,way
 Eksterveldstraat,,,,way
 Elfnovemberlaan,,,,way
-Elfpad,,,,way
 Elzasgang,,,,relation
+"Emiel Hullebroecklaan",,,,way
 "Emiel Vlieberghlaan",,,,way
 "Engels Plein",,,,way
 "Englebert Carleerlaan",,,,way
@@ -245,7 +247,6 @@ Esplanadelaan,,,,way
 "Eugeen Vanhoorenbekelaan",,,,way
 Evenementenlaan,,,,relation+way
 Expresweg,,,,way
-"F25 Leuven - Aarschot",,,,way
 F8,,,,way
 "Familie De Bayostraat",,,,way
 Fazantenlaan,,,,way
@@ -270,7 +271,7 @@ Gansepoelveld,,,,way
 Garestalaan,,,,way
 Gasthuisberglaan,,,,way
 Gasthuisbosstraat,,,,way
-"Gaston Feremanslaan",,,,relation
+"Gaston Feremanslaan",,,,way
 "Gebroeders Tassetstraat",,,,way
 Geldenaaksebaan,,,,way
 Geldenaaksevest,,,,way
@@ -289,8 +290,7 @@ Glasblazerijplein,,,,way
 Glasblazerijstraat,,,,way
 Glimwormstraat,,,,way
 "Goede Haardlaan",,,,relation
-"Goswin III laan",,,,way
-"Goswin III-laan",,,,way
+"Goswin III-Laan",,,,way
 Goudfazantenlaan,,,,way
 Goudsbloemstraat,,,,way
 "Graaf de Grunnelaan",,,,way
@@ -334,7 +334,7 @@ Heikneuterlaan,,,,way
 Heilige-Geeststraat,,,,way
 "Henri Corbeelsplein",,,,way
 "Henri Elsenwijk",,,,way
-"Henri Geeraertlaan",,,,relation
+"Henri Geeraertlaan",,,,way
 "Henricus Bosmanslaan",,,,way
 "Henricus Wittebolsstraat",,,,way
 Herbeemdpad,,,,way
@@ -397,15 +397,15 @@ Janseniusstraat,,,,way
 "Jean-Baptiste Ectorsstraat",,,,relation
 "Jeanne Dormaelsplein",,,,way
 "Jef Scherensstraat",,,,way
-"Jef Van Hooflaan",,,,relation+way
-"Jef Vanden Eyndelaan",,,,relation+way
+"Jef Van Hooflaan",,,,way
+"Jef Vanden Eyndelaan",,,,way
 Jeneverpad,,,,way
 Jeugdplein,,,,way
 Jeugdstraat,,,,way
 "Joanna-Maria Artoisplein",,,,relation
 Jodenstraat,,,,way
-"Joos Florquinlaan",,,,relation
-"Jos De Haeslaan",,,,relation
+"Joos Florquinlaan",,,,way
+"Jos De Haeslaan",,,,way
 "Joseph Ravoetstraat",,,,way
 "Jozef II-straat",,,,way
 "Jozef Pierrestraat",,,,way
@@ -435,7 +435,7 @@ Kartuizersstraat,,,,way
 Kastanjelaan,,,,relation
 "Kasteelpark Arenberg",,,,way
 Katjeswilgenlaan,,,,way
-Keibergstraat,,,,relation+way
+Keibergstraat,,,,way
 Keizersberg,,,,way
 Kerkhofdreef,,,,way
 Kerkstraat,,,,way
@@ -460,7 +460,7 @@ Klaverstraat,,,,way
 "Klein Straatken",,,,way
 Klein-Rijselstraat,,,,way
 "Kleine Reedelle",,,,way
-"Kleine huizenstraat",,,,way
+Kleine-Huizenstraat,,,,way
 Kloosterbosstraat,,,,way
 Kloosterdijkpad,,,,way
 Kloosterlaan,,,,way
@@ -530,7 +530,7 @@ Lentedreef,,,,way
 Leuvenstraat,,,,way
 Libelpad,,,,way
 Liemingenstraat,,,,way
-Lievevrouweplein,,,,relation+way
+Lievevrouweplein,,,,way
 Lijnloperspad,,,,way
 Lijsterlaan,,,,way
 Lindelaan,,,,way
@@ -540,7 +540,7 @@ Linninkpad,,,,way
 Lissenweg,,,,way
 Lobergenbos,,,,way
 Locomotievenstraat,,,,way
-"Lodewijk De Vochtlaan",,,,relation
+"Lodewijk De Vochtlaan",,,,way
 Lodreef,,,,way
 Lolanden,,,,way
 Lombaardenstraat,,,,way
@@ -727,8 +727,9 @@ Reeboklaan,,,,way
 Refugehof,,,,way
 Remisebosweg,,,,way
 "Remy Alloingstraat",,,,way
+"Renaat Veremanslaan",,,,way
+"René De Clercqlaan",,,,way
 "René Verbeeckstraat",,,,way
-"René de Clercqlaan",,,,relation
 Rennes-Singel,,,,way
 "Rerum Novarumlaan",,,,way
 "Richard Valvekensstraat",,,,way
@@ -832,7 +833,6 @@ Steenakkerstraat,,,,way
 Steenbakkerijstraat,,,,way
 Steenbakkerspad,,,,way
 Steengroevenlaan,,,,way
-"Steenweg Op Wijgmaal",,,,way
 "Steenweg op Holsbeek / Korte Holsbeeksesteenweg",,,,way
 Stenenkruis,,,,way
 "Stijn Streuvelstraat",,,,way
