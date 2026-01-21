@@ -8,6 +8,7 @@ Diestsevest,wikidata,-,Q743236,way
 Lepelstraat,wikidata,-,Q743236,way
 Leuvensebaan,wikidata,-,Q118958,relation
 Leuvensestraat,wikidata,-,Q118958,way
+Mechelsestraat,wikidata,-,Q162022,way
 Minderbroedersstraat,wikidata,-,Q165005,relation+way
 Naamsepoort,wikidata,-,Q134121,way
 Naamsesteenweg,wikidata,-,Q134121,way
@@ -24,10 +25,12 @@ Predikherinnenstraat,wikidata,-,Q131479,way
 "Prins De Lignestraat",wikidata,-,Q3922015,way
 "Romeinse straat",wikidata,-,Q194029,way
 Savoyestraat,wikidata,-,Q14118,way
+Sint-Jacobsplein,wikidata,-,Q43999;Q18380032,way
 Tervuursepoort,wikidata,-,Q456544,way
 Tervuursesteenweg,wikidata,-,Q456544,relation+way
 Tervuursestraat,wikidata,-,Q456544,way
 Tiensesteenweg,wikidata,-,Q456550,relation+way
+Tiensestraat,wikidata,-,Q31555441,way
 Tomveldstraat,wikidata,-,Q34023,way
 Volmolenlaan,wikidata,-,Q21045580,way
 "Antonia van Roesmaelelaan",wikidata,F,Q87136364,relation+way
@@ -56,7 +59,8 @@ Sint-Reneldisplein,wikidata,F,Q463631,way
 "Baron E. Descampslaan",wikidata,M,Q382744,way
 "Charles Deberiotstraat",wikidata,M,Q385217,relation+way
 "Constantin Meunierstraat",wikidata,M,Q552440,relation
-Dagobertstraat,wikidata,M,Q316874,relation
+Dagobertstraat,wikidata,M,Q316874,relation+way
+"Dirk Boutslaan",wikidata,M,Q313561,way
 "Don Boscolaan",wikidata,M,Q146183,way
 "Edward Van Evenstraat",wikidata,M,Q13575404,way
 "Emile Mathieustraat",wikidata,M,Q2062068,way
@@ -81,6 +85,7 @@ Dagobertstraat,wikidata,M,Q316874,relation
 "Jan Cobbaertplein",wikidata,M,Q693536,way
 "Jan Stasstraat",wikidata,M,Q560706,way
 "Jan-Pieter Minckelersstraat",wikidata,M,Q910247,way
+Janseniusstraat,wikidata,M,Q318943,way
 "Jean-Baptiste Van Monsstraat",wikidata,M,Q445843,way
 "Joris Helleputteplein",wikidata,M,Q470776,way
 "Jozef Deveusterlaan",wikidata,M,Q232785,way
@@ -101,6 +106,7 @@ Lemmensberg,wikidata,M,Q712718,way
 "Lodewijk Engelbertus Van Arenbergplein",wikidata,M,Q537073,way
 "Louis Melsensstraat",wikidata,M,Q2691744,way
 "Louis Pasteurwijk",wikidata,M,Q529,way
+"Mathieu de Layensplein",wikidata,M,Q719192,way
 "Monseigneur Ladeuzeplein",wikidata,M,Q966218,way
 "Monseigneur Van Waeyenberghlaan",wikidata,M,Q2248867,way
 "Pater Damiaanplein",wikidata,M,Q232785,relation+way

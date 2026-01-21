@@ -19,6 +19,7 @@ name,source,gender,wikidata,type
 14,,,,way
 Aambeeldstraat,,,,way
 Aapark,,,,way
+Aardappelmarkt,,,,way
 Aarschotsesteenweg,,,,way
 "Abdij Van Vlierbeek",,,,way
 "Abdij Vlierbeek",,,,way
@@ -133,6 +134,7 @@ Brabantlaan,,,,relation+way
 Brampad,,,,way
 Brandenstraat,,,,way
 Brandweg,,,,way
+"Brecht Provoostplein",,,,way
 "Brede Weg",,,,way
 Bredeweg,,,,way
 Bremstraat,,,,way
@@ -194,7 +196,6 @@ Dijkstraat,,,,way
 Dijlebrug,,,,way
 Dijledreef,,,,way
 Dijleoever,,,,way
-"Dirk Boutslaan",,,,way
 "Dirt and Gravel Pump Track MPC Terbank vzw",,,,way
 Distelvinkenstraat,,,,way
 Dodendreef,,,,way
@@ -391,7 +392,6 @@ Jachtlaan,,,,way
 "Jan Vandeveldelaan",,,,way
 "Jan Vranckxweg",,,,way
 "Jan-Baptist Vanderelststraat",,,,way
-Janseniusstraat,,,,way
 "Jean Baptist Vanderelststraat",,,,way
 "Jean Bulenswijk",,,,way
 "Jean-Baptiste Ectorsstraat",,,,relation
@@ -546,7 +546,6 @@ Lolanden,,,,way
 Lombaardenstraat,,,,way
 Lopad,,,,way
 Losbergenlaan,,,,way
-Lostraat,,,,way
 "Louis Tielemanswijk",,,,way
 "Louis Woutersstraat",,,,way
 Lovensveldstraat,,,,way
@@ -567,10 +566,8 @@ Martelarenplein,,,,relation
 Martellekensweg,,,,way
 Matadilaan,,,,relation
 "Mathias Van den Gheynlaan",,,,way
-"Mathieu de Layensplein",,,,way
 Mathildegang,,,,way
 Mechelsesteenweg,,,,way
-Mechelsestraat,,,,way
 Mechelsevest,,,,way
 Meerdaalboslaan,,,,way
 Meerstraat,,,,way
@@ -614,6 +611,7 @@ Nijvelsebaan,,,,way
 Noormannenstraat,,,,way
 Norbertijnerweg,,,,way
 OOST,,,,way
+Oaselaan,,,,way
 Onafhankelijkheidsstraat,,,,relation
 Onderdoorgang,,,,way
 Ondernemingenweg,,,,way
@@ -785,13 +783,13 @@ Sint-Barbarastraat,,,,way
 Sint-Hadrianusplein,,,,way
 Sint-Hadrianusstraat,,,,way
 Sint-Hubertusstraat,,,,way
-Sint-Jacobsplein,,,,way
 Sint-Jansbergsesteenweg,,,,way
 Sint-Jorislaan,,,,way
 Sint-Maartenstraat,,,,way
 Sint-Martinusberg,,,,relation
 Sint-Michielsstraat,,,,way
 Sint-Quintensberg,,,,way
+Sint-Rafaelplein,,,,way
 Sint-Servatiusstraat,,,,way
 Skybridge,,,,way
 Slachthuislaan,,,,way
@@ -835,6 +833,7 @@ Steenbakkerspad,,,,way
 Steengroevenlaan,,,,way
 "Steenweg op Holsbeek / Korte Holsbeeksesteenweg",,,,way
 Stenenkruis,,,,way
+Sterrenlaan,,,,relation
 "Stijn Streuvelstraat",,,,way
 Stoemperspad,,,,way
 Stokerijstraat,,,,way
@@ -865,7 +864,6 @@ Tervuursevest,,,,relation+way
 Theresianengang,,,,relation
 "Thomas Woodrow Wilsonlaan",,,,way
 Tiensepoort,,,,way
-Tiensestraat,,,,way
 Tiensevest,,,,relation+way
 Tiggelpad,,,,way
 Tivolibrug,,,,way
@@ -912,7 +910,7 @@ Veldovenweg,,,,way
 Veldstraat,,,,way
 Veldweg,,,,way
 Verbindingslaan,,,,way
-"Verbrande Poort",,,,way
+"Verbrande Poortgang",,,,way
 Verbrandenbos,,,,way
 Verbroederingstraat,,,,way
 Verenigingstraat,,,,way
@@ -924,6 +922,7 @@ Verzoeningsstraat,,,,way
 Vestinggang,,,,way
 Vierhuizenstraat,,,,way
 Vijfbunderstraat,,,,way
+"Vijfde Liniestraat / Rotselaarsesteenweg",,,,way
 Vijverlaan,,,,way
 Villapark,,,,way
 Vinkenbosstraat,,,,way
