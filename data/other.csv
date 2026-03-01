@@ -119,7 +119,7 @@ Bornestraat,,,,way
 Borsstraat,,,,way
 Borstelsstraat,,,,way
 "Bosch Rantzenstraat (H81)",,,,way
-Boskantlaan,,,,relation
+Boskantlaan,,,,way
 Boskouter,,,,way
 Boslaan,,,,way
 Bosstraat,,,,way
@@ -196,7 +196,6 @@ Dijkstraat,,,,way
 Dijlebrug,,,,way
 Dijledreef,,,,way
 Dijleoever,,,,way
-"Dirt and Gravel Pump Track MPC Terbank vzw",,,,way
 Distelvinkenstraat,,,,way
 Dodendreef,,,,way
 Doleegstraat,,,,way
@@ -310,7 +309,7 @@ Groeneweg,,,,way
 Groeningestraat,,,,way
 Groenstraat,,,,relation+way
 Groenveldstraat,,,,way
-"Groot Begijnhof",,,,relation
+"Groot Begijnhof",,,,relation+way
 "Grote Markt",,,,way
 Guldensporenlaan,,,,way
 Guldensporenpad,,,,way
@@ -433,7 +432,7 @@ Karmelietenberg,,,,way
 Karrendreef,,,,way
 Karthuizerij,,,,way
 Kartuizersstraat,,,,way
-Kastanjelaan,,,,relation
+Kastanjelaan,,,,way
 "Kasteelpark Arenberg",,,,way
 Katjeswilgenlaan,,,,way
 Keibergstraat,,,,way
@@ -618,7 +617,7 @@ Onderdoorgang,,,,way
 Ondernemingenweg,,,,way
 Ontvoogdingstraat,,,,way
 "Onze toevluchtstraat",,,,way
-Ooiendonk,,,,relation
+Ooiendonk,,,,way
 Oosterhemstraat,,,,way
 Oostertunnel,,,,way
 "Op de Vliet",,,,way
