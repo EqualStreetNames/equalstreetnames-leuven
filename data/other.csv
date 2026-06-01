@@ -59,7 +59,6 @@ Atelierstraat,,,,relation
 "Augusta Chiwystraat",,,,way
 Augustijnenstraat,,,,way
 Banhagestraat,,,,relation
-Bankstraat,,,,way
 Bareelweg,,,,way
 "Baron August de Becker Remyplein",,,,way
 "Baron d'Eynattenstraat",,,,way
@@ -157,6 +156,7 @@ Bunswijkpad,,,,way
 Bunswijkstraat,,,,way
 Burchtstraat,,,,way
 Burenberg,,,,way
+Busbaan,,,,way
 Busleidengang,,,,way
 "Buurtweg 3",,,,way
 "Buurtweg 37",,,,way
@@ -232,6 +232,7 @@ Eikenbergstraat,,,,way
 Eikenboslaan,,,,way
 Eikstraat,,,,way
 Eksterveldstraat,,,,way
+Elfjespad,,,,way
 Elfnovemberlaan,,,,way
 Elzasgang,,,,relation
 "Emiel Hullebroecklaan",,,,way
@@ -371,11 +372,11 @@ Hulsberg,,,,way
 Hulsbergweg,,,,way
 Huttelaan,,,,way
 IJzerenmolenstraat,,,,way
+IJzerenpoortstraat,,,,way
 IJzerenwegstraat,,,,way
 IJzersteenpad,,,,way
 Idalaan,,,,way
 Ierse-Predikherenstraat,,,,way
-Ijzerenpoortstraat,,,,way
 Industrieweg,,,,way
 Interleuvenlaan,,,,way
 Invalidenlaan,,,,way
@@ -427,7 +428,6 @@ Karekietenlaan,,,,way
 "Karel Schurmansstraat",,,,way
 Karmelietenberg,,,,way
 Karrendreef,,,,way
-Karthuizerij,,,,way
 Kartuizersstraat,,,,way
 Kastanjelaan,,,,way
 "Kasteelpark Arenberg",,,,way
@@ -548,7 +548,7 @@ Lovensveldstraat,,,,way
 Lozeweg,,,,way
 Lüdenscheidsingel,,,,way
 "Ludovic Zamenhofstraat",,,,way
-Margarethaplein,,,,way
+Margarethaplein,,,,relation+way
 "Marguerite Lefèvrelaan",,,,way
 "Maria Jacqueslaan",,,,way
 Maria-Theresiastraat,,,,relation
@@ -777,6 +777,7 @@ Sellekensstraat,,,,way
 Sint-Agathaplein,,,,way
 Sint-Antoniusberg,,,,relation
 Sint-Barbarastraat,,,,way
+Sint-Franciscusweg,,,,way
 Sint-Hadrianusplein,,,,way
 Sint-Hadrianusstraat,,,,way
 Sint-Hubertusstraat,,,,way
@@ -1024,7 +1025,9 @@ Zwaluwendreef,,,,way
 Zwaluwenlaan,,,,way
 Zwanenberglaan,,,,way
 Zwartzustersstraat,,,,way
+blotevoetenpad,,,,way
 "ceremonie plein",,,,way
+"glazen wandelweg",,,,way
 "level   1 <-> 4",,,,way
 "level -1 <->1",,,,way
 "level 0",,,,way
