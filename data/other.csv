@@ -56,7 +56,6 @@ Arendstraat,,,,way
 Asstraat,,,,way
 Atalantastraat,,,,way
 Atelierstraat,,,,relation
-"Augusta Chiwystraat",,,,way
 Augustijnenstraat,,,,way
 Banhagestraat,,,,relation
 Bareelweg,,,,way
@@ -156,9 +155,9 @@ Bunswijkpad,,,,way
 Bunswijkstraat,,,,way
 Burchtstraat,,,,way
 Burenberg,,,,way
-Busbaan,,,,way
 Busleidengang,,,,way
 "Buurtweg 3",,,,way
+"Buurtweg 33",,,,way
 "Buurtweg 37",,,,way
 "Buurtweg 41",,,,way
 "Buurtweg nr 63",,,,way
@@ -167,7 +166,6 @@ Casablancalaan,,,,way
 Casinolaan,,,,way
 Celestijnenlaan,,,,way
 Centrumstraat,,,,way
-"Claire Vellutstraat",,,,way
 Collegeberg,,,,way
 Compostweg,,,,way
 Crabeelsweg,,,,way
@@ -239,7 +237,6 @@ Elzasgang,,,,relation
 "Emiel Vlieberghlaan",,,,way
 "Engels Plein",,,,way
 "Englebert Carleerlaan",,,,way
-"Ernest Solvaystraat",,,,way
 Escoriallaan,,,,relation
 Esperantolaan,,,,way
 Esplanadelaan,,,,way
@@ -327,6 +324,7 @@ Hanengang,,,,way
 Hasselbroekbaan,,,,way
 Havenkant,,,,way
 Haverstraat,,,,way
+Hazepad,,,,way
 Heidebergstraat,,,,way
 Heidebloempad,,,,way
 Heidelaan,,,,way
@@ -344,6 +342,7 @@ Herestraat,,,,way
 "Herestraat - Ring Noord",,,,way
 "Herestraat - Ring Zuid",,,,way
 Herfstlaan,,,,way
+Herpendalstraat,,,,way
 Hertendries,,,,relation
 "Hertog Jan I-straat",,,,way
 Hertogstraat,,,,way
@@ -406,7 +405,6 @@ Jodenstraat,,,,way
 "Joos Florquinlaan",,,,way
 "Jos De Haeslaan",,,,way
 "Joseph Ravoetstraat",,,,way
-"Jozef II-straat",,,,way
 "Jozef Pierrestraat",,,,way
 "Jozef Vounckplein",,,,way
 "Jozef Wautersstraat",,,,way
@@ -429,6 +427,7 @@ Karekietenlaan,,,,way
 Karmelietenberg,,,,way
 Karrendreef,,,,way
 Kartuizersstraat,,,,way
+Kastanjeboulevard,,,,way
 Kastanjelaan,,,,way
 "Kasteelpark Arenberg",,,,way
 Katjeswilgenlaan,,,,way
@@ -436,6 +435,7 @@ Keibergstraat,,,,way
 Keizersberg,,,,way
 Kerkhofdreef,,,,way
 Kerkstraat,,,,way
+Kerkstraetje,,,,way
 Kerselarenstraat,,,,way
 Kerspelstraat,,,,way
 "Kerstine Liedekensstraat",,,,way
@@ -453,6 +453,7 @@ Klaprozenveld,,,,way
 Klaverpark,,,,way
 Klaverstraat,,,,way
 "Klein Begijnhof",,,,way
+"Klein Langeveld",,,,way
 "Klein Straatken",,,,way
 Klein-Rijselstraat,,,,way
 "Kleine Reedelle",,,,way
@@ -470,6 +471,7 @@ Koksijdewijk,,,,way
 "Kolonel Begaultlaan",,,,way
 Kolveniershof,,,,way
 Konijnenpijp,,,,way
+Konijntjesberg,,,,way
 "Koning Albertplein",,,,way
 Koningsstraat,,,,way
 Koperslagerij,,,,way
@@ -481,8 +483,8 @@ Korenstraat,,,,way
 "Korte Holsbeeksesteenweg",,,,way
 Kortestraat,,,,way
 Kortrijksestraat,,,,way
+"Kortrijksestraat / Kortrijkstraat",,,,way
 "Kortrijkstraat - Kortrijksestraat",,,,way
-Kraaiberg,,,,way
 Krakaulaan,,,,way
 Krakauplein,,,,way
 Krakenstraat,,,,way
@@ -493,7 +495,6 @@ Kriekenboslaan,,,,way
 Kroegberg,,,,way
 Krommelaan,,,,way
 Kroonstraat,,,,way
-Kruisbooglaan,,,,way
 Kruisstraat,,,,way
 Kwadenhoekstraat,,,,way
 "La Vignette",,,,way
@@ -520,8 +521,6 @@ Leibeekstraat,,,,way
 Leming,,,,way
 Lentedreef,,,,way
 "Léon Colinslaan",,,,relation
-"Leopold Beosierlaan",,,,way
-"Leopold Decouxlaan",,,,way
 "Leopold Ruelensstraat",,,,way
 Leuvenstraat,,,,way
 Libelpad,,,,way
@@ -544,6 +543,7 @@ Lopad,,,,way
 Losbergenlaan,,,,way
 "Louis Tielemanswijk",,,,way
 "Louis Woutersstraat",,,,way
+Lovensevoetpad,,,,way
 Lovensveldstraat,,,,way
 Lozeweg,,,,way
 Lüdenscheidsingel,,,,way
@@ -561,7 +561,6 @@ Martelarenlaan,,,,relation+way
 Martelarenplein,,,,relation
 Martellekensweg,,,,way
 Matadilaan,,,,relation
-"Mathias Van den Gheynlaan",,,,way
 Mathildegang,,,,way
 Mechelsesteenweg,,,,way
 Mechelsevest,,,,way
@@ -723,7 +722,6 @@ Remisebosweg,,,,way
 "Remy Alloingstraat",,,,way
 "Renaat Veremanslaan",,,,way
 "René De Clercqlaan",,,,way
-"René Verbeeckstraat",,,,way
 Rennes-Singel,,,,way
 "Rerum Novarumlaan",,,,way
 "Richard Valvekensstraat",,,,way
@@ -776,7 +774,6 @@ Sellekensstraat,,,,way
 "Seppe Deckersweg",,,,way
 Sint-Agathaplein,,,,way
 Sint-Antoniusberg,,,,relation
-Sint-Barbarastraat,,,,way
 Sint-Franciscusweg,,,,way
 Sint-Hadrianusplein,,,,way
 Sint-Hadrianusstraat,,,,way
@@ -901,6 +898,7 @@ Valleistraat,,,,way
 Varenspad,,,,way
 Veeweidelaan,,,,way
 Veeweidepad,,,,way
+Veeweidestraat,,,,way
 Veilingweg,,,,way
 Velderblok,,,,way
 Veldlaan,,,,way
@@ -1020,7 +1018,6 @@ Zevenslapersstraat,,,,way
 Ziekelingenstraat,,,,relation
 Zongang,,,,relation+way
 Zoutstraat,,,,way
-"Zuster Jules-Marie Heymansstraat",,,,way
 Zwaluwendreef,,,,way
 Zwaluwenlaan,,,,way
 Zwanenberglaan,,,,way

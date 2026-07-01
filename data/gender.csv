@@ -36,7 +36,9 @@ Tiensestraat,wikidata,-,Q31555441,way
 Tomveldstraat,wikidata,-,Q34023,way
 Volmolenlaan,wikidata,-,Q21045580,way
 "Antonia van Roesmaelelaan",wikidata,F,Q87136364,relation+way
+"Augusta Chiwystraat",wikidata,F,Q4820899,way
 "Berthe Gottignystraat",wikidata,F,Q87176206,relation
+"Claire Vellutstraat",wikidata,F,Q20687492,way
 "Hortense Damanhof",wikidata,F,Q5906692,way
 "Koningin Astridlaan",wikidata,F,Q230238,way
 "Koningin Elisabethlaan",wikidata,F,Q235186,way
@@ -45,9 +47,11 @@ Volmolenlaan,wikidata,-,Q21045580,way
 Onze-Lieve-Vrouwstraat,wikidata,F,Q345,way
 "Prinses Lydialaan",wikidata,F,Q75394447,way
 Sint-Annastraat,wikidata,F,Q164294,way
+Sint-Barbarastraat,wikidata,F,Q192816,way
 Sint-Beggaberg,wikidata,F,Q266765,way
 Sint-Reneldislaan,wikidata,F,Q463631,way
 Sint-Reneldisplein,wikidata,F,Q463631,way
+"Zuster Jules-Marie Heymansstraat",wikidata,F,Q94345405,way
 "Albert Giraudstraat",wikidata,M,Q972661,way
 "Albert Stainierstraat",wikidata,M,Q116957504,way
 "Alfons Smetsplein",wikidata,M,Q1883809,relation
@@ -69,6 +73,7 @@ Dagobertstraat,wikidata,M,Q316874,relation+way
 "Emile Van Arenberghstraat",wikidata,M,Q3588775,way
 "Erasme Ruelenspark",wikidata,M,Q87120607,relation
 "Erasme Ruelensvest",wikidata,M,Q87120607,way
+"Ernest Solvaystraat",wikidata,M,Q311665,way
 "Eugène Gilbertstraat",wikidata,M,Q28912755,way
 "Ferdinand Smoldersplein",wikidata,M,Q20827860,way
 "Frans Cnopslaan",wikidata,M,Q87175364,way
@@ -92,6 +97,7 @@ Janseniusstraat,wikidata,M,Q318943,way
 "Joris Helleputteplein",wikidata,M,Q470776,way
 "Jozef Deveusterlaan",wikidata,M,Q232785,way
 "Jozef Eerdekensstraat",wikidata,M,Q87074582,relation
+"Jozef II-straat",wikidata,M,Q76555,way
 "Jules Vandenbemptlaan",wikidata,M,Q87116664,way
 "Justus Lipsiusstraat",wikidata,M,Q315871,relation
 "Kardinaal Mercierlaan",wikidata,M,Q468097,relation
@@ -104,11 +110,14 @@ Janseniusstraat,wikidata,M,Q318943,way
 Lemmensberg,wikidata,M,Q712718,way
 "Leo Dartelaan",wikidata,M,Q87099004,way
 "Léon Schreursvest",wikidata,M,Q2207177,way
+"Leopold Beosierlaan",wikidata,M,Q11303414,way
+"Leopold Decouxlaan",wikidata,M,Q14636723,way
 "Leopold Vanderkelenstraat",wikidata,M,Q2467441,way
 "Lodewijk Engelbertus Van Arenbergplein",wikidata,M,Q537073,way
 "Louis Melsensstraat",wikidata,M,Q2691744,way
 "Louis Pasteurwijk",wikidata,M,Q529,way
-"Mathieu de Layensplein",wikidata,M,Q719192,way
+"Mathias Van den Gheynlaan",wikidata,M,Q3160421,way
+"Mathieu de Layensplein",wikidata,M,Q719192,relation+way
 "Monseigneur Ladeuzeplein",wikidata,M,Q966218,way
 "Monseigneur Van Waeyenberghlaan",wikidata,M,Q2248867,way
 "Pater Damiaanplein",wikidata,M,Q232785,relation+way
@@ -128,6 +137,7 @@ Lemmensberg,wikidata,M,Q712718,way
 "Rector De Somerplein",wikidata,M,Q352379,relation+way
 "Remi Vandervaerenlaan",wikidata,M,Q2632274,way
 Remylaan,wikidata,M,Q116951900,way
+"René Verbeeckstraat",wikidata,M,Q41883897,way
 "Romain Rollandstraat",wikidata,M,Q47162,way
 Sint-Lambertusstraat,wikidata,M,Q283447,way
 "Stanislas De Rijcklaan",wikidata,M,Q15882291,relation
