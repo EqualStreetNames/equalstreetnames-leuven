@@ -109,7 +109,7 @@ Boekhandelstraat,,,,way
 Boekharingstraat,,,,way
 Boerenkrijglaan,,,,way
 Bogaardenstraat,,,,way
-"Boghe of Brandgang",,,,way
+Boghe,,,,way
 Boogschuttersstraat,,,,way
 Boomgaardstraat,,,,way
 Bornestraat,,,,way
@@ -128,6 +128,7 @@ Bovenstraat,,,,way
 Braambessenlaan,,,,way
 Brabançonnestraat,,,,way
 Brabantlaan,,,,relation+way
+Brabantplein,,,,way
 Brampad,,,,way
 Brandenstraat,,,,way
 Brandweg,,,,way
@@ -601,6 +602,7 @@ Neringenweg,,,,way
 "Nieuwe Mechelsesteenweg",,,,way
 "Nieuwe Prinsstraat",,,,way
 Nieuwedreef,,,,way
+Nieuwendreef,,,,way
 Nieuwstraat,,,,way
 Nijvelsebaan,,,,way
 Noormannenstraat,,,,way
@@ -698,7 +700,6 @@ Prinsstraat,,,,way
 Priorijlaan,,,,way
 Privaatweg,,,,way
 Processiestraat,,,,way
-"Professor Jozef Vounckplein",,,,way
 Prosperdreef,,,,way
 Provincie-esplanade,,,,way
 Puttebosstraat,,,,way
@@ -785,6 +786,7 @@ Sint-Martinusberg,,,,relation
 Sint-Michielsstraat,,,,way
 Sint-Quintensberg,,,,way
 Sint-Rafaelplein,,,,way
+Sint-Rafaëlplein,,,,way
 Sint-Servatiusstraat,,,,way
 Skybridge,,,,way
 Slachthuislaan,,,,way
@@ -883,7 +885,7 @@ Twijglaan,,,,way
 Uitbreidingslaan,,,,way
 Ursulinenstraat,,,,way
 Vaartdijk,,,,way
-Vaartkom,,,,way
+Vaartkom,,,,relation+way
 Vaartstraat,,,,way
 Valkenplein,,,,way
 Valkerijgang,,,,way
